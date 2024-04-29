@@ -1,1 +1,1 @@
-# food_donation
+An online food donation system is a platform designed to facilitate the donation of food items to those in need through digital means.This system streamlines the process of connecting donors with those in need, leveraging technology to maximize the impact of charitable efforts and reduce food waste.
